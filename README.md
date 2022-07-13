@@ -1,11 +1,11 @@
-I'm Ben, a PhD candidate at the QUT Centre for Robotics. My thesis titled *Grasping on the Move: Mobile Manipulation in Dynamic, Unstructured Environments* explores how mobile robots can perform tasks more quickly and gracefully in complex environments. 
+I'm Ben, a PhD candidate at the QUT Centre for Robotics. My thesis titled "Grasping on the Move: Mobile Manipulation in Dynamic, Unstructured Environments" explores how mobile robots can perform tasks more quickly and gracefully in complex environments. 
 
-I am interested in all elements of robotic design, including the development of mechanical, electrical, and software sub-systems. 
+My goal is to develop robots that break down stereotypes about what it means for motion to be *robotic*. I am interested in all facets of robotics development, including mechanical, electrical, and software design. 
 
 # Manipulation *On-The-Move*
 I have been developing an architecture to enable reactive manipulation while a mobile robot remains in motion. This approach results in fast, graceful, and reliable performance.
 
-More details are [available here](https://github.com/BenBurgessLimerick/ManipulationOnTheMove).
+More details are [available here](https://github.com/BenBurgessLimerick/ManipulationOnTheMove)
 
 ![Frankie Pick-and-Place](images/ManipulationOnTheMove/FrankiePickPlace.gif)
 
@@ -14,7 +14,7 @@ More details are [available here](https://github.com/BenBurgessLimerick/Manipula
 
 To encourage meaningful comparison of dynamic grasping performance I developed a testing system that provides reproducible object motion. I used the system to investigate the perception challenges specific to grasping in dynamic environments.
 
-Find out more about DGBench [here!](https://github.com/BenBurgessLimerick/DGBench)
+Find out more about DGBench [here](https://github.com/BenBurgessLimerick/DGBench)
 
 ![DGBench](images/DGBench/PerceptionSystemComparison.gif)
 
@@ -22,6 +22,7 @@ Find out more about DGBench [here!](https://github.com/BenBurgessLimerick/DGBenc
 I was responsible for the mechanical and electrical design of a prototype gripper to manipulate cargo transfer bags on space stations. These bags have buckles and deformable handles designed for human use, which presents interesting challenges for automated handling in the zero-gravity environment of space.  
 
 See the gripper in action [here](https://www.youtube.com/watch?v=ymAvM0AEL58&ab_channel=JamesMount)
+
 ![IVRGripper](images/IVR/IVRGripper.jpg)
 
 # TugBot
