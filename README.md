@@ -7,7 +7,9 @@ I have been developing an architecture to enable reactive manipulation while a m
 
 More details are [available here](https://github.com/BenBurgessLimerick/ManipulationOnTheMove)
 
-![Frankie Pick-and-Place](images/ManipulationOnTheMove/FrankiePickPlace.gif)
+[![Frankie Pick-and-Place Loop](images/ManipulationOnTheMove/FrankieLoopThumbnailCropped.jpg)](https://www.youtube.com/watch?v=5lZfAJ_AHP0 "Frankie Pick-and-Place Loop")
+
+<!-- ![Frankie Pick-and-Place](images/ManipulationOnTheMove/FrankiePickPlace.gif) -->
 
 # DGBench: An Open-Source, Reproducible Benchmark for Dynamic Grasping
 <!-- Dynamic grasping performance is often largely anecodotal, with no clear definitions of what is meant by "dynamic grasping". Experiments range from objects moving with continous predictable motion such as on a conveyor belt, to objects that are moved randomly by hand, but the motion stops before the grasp is complete. -->
