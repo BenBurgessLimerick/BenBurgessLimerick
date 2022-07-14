@@ -1,3 +1,4 @@
+# Ben Burgess-Limerick
 I'm Ben, a PhD candidate at the QUT Centre for Robotics. My thesis titled "Grasping on the Move: Mobile Manipulation in Dynamic, Unstructured Environments" explores how mobile robots can perform tasks more quickly and gracefully in complex environments. 
 
 My goal is to develop robots that break down stereotypes about what it means for motion to be *robotic*. I am interested in all facets of robotics development, including mechanical, electrical, and software design. 
