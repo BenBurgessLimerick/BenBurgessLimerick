@@ -8,7 +8,9 @@ I have been developing an architecture to enable reactive manipulation while a m
 
 More details are [available here](https://github.com/BenBurgessLimerick/ManipulationOnTheMove)
 
-[![Frankie Pick-and-Place Loop](images/ManipulationOnTheMove/FrankieLoopThumbnailCropped.jpg)](https://www.youtube.com/watch?v=5lZfAJ_AHP0 "Frankie Pick-and-Place Loop")
+<!-- [![Frankie Pick-and-Place Loop](images/ManipulationOnTheMove/FrankieLoopThumbnailCropped.jpg)](https://www.youtube.com/watch?v=5lZfAJ_AHP0 "Frankie Pick-and-Place Loop") -->
+
+![Frankie Pick-and-Place Moving Object](images/ManipulationOnTheMove/FrankiePickPlaceDynamic2.gif)
 
 <!-- ![Frankie Pick-and-Place](images/ManipulationOnTheMove/FrankiePickPlace.gif) -->
 
