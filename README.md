@@ -3,6 +3,8 @@ I'm Ben, a PhD candidate at the QUT Centre for Robotics. My thesis titled "Grasp
 
 My goal is to develop robots that break down stereotypes about what it means for motion to be *robotic*. I am interested in all facets of robotics development, including mechanical, electrical, and software design. 
 
+![Manipulation On-The-Move](images/ManipulationOnTheMove/MotmBanner.png)
+
 # Manipulation *On-The-Move*
 I have been developing an architecture to enable reactive manipulation while a mobile robot remains in motion. This approach results in fast, graceful, and reliable performance.
 
